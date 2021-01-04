@@ -12,7 +12,7 @@ public class ArrayListDemo4
 
         for (int index = 0; index < nameList.size(); index++)
         {
-            System.out.println("Indeks: " + index + "Imię: " + nameList.get(index));
+            System.out.println("Indeks: " + index + " Imię: " + nameList.get(index));
         }
 
         nameList.add(1, "Maria");
